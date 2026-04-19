@@ -1,0 +1,11 @@
+kumuluzee:
+  datasources:
+    - jndi-name: jdbc/CustomersDS
+      connection-url: jdbc:postgresql://localhost:5432/postgres
+      username: postgres
+      password: postgres
+      pool:
+        max-size: 2
+  persistence-units:
+    - name: "kumuluzee-samples-jpa"
+      continue-on-error: false

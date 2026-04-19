@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/bean-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/https/pom.xml" />
+        <option value="$PROJECT_DIR$/jax-rs/pom.xml" />
+        <option value="$PROJECT_DIR$/jax-ws/pom.xml" />
+        <option value="$PROJECT_DIR$/jsf/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/jul/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-amqp-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-blog-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-config-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-config-etcd/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-config-mp/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-config-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-config/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-cors/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-database-schema-migrations-liquibase/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-discovery-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-discovery-etcd/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-ethereum-web3j/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-fault-tolerance/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-feature-flags-unleash/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-graphql-advanced/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-graphql-jpa-security/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-graphql-jpa-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-grpc/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-health/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-jcache/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-logs-fluentd/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-logs-jul/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-logs-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-metrics/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-microProfile-1.2/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-openapi-mp/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-openapi/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-opentracing-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-opentracing/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-reactive-vertx/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-rest-client/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-security-cdi-keycloak/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-security-keycloak/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-streaming-kafka-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-streaming-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/kumuluzee-version/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

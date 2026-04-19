@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jax-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jax-ws/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-business-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-business-logic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/customers-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/customers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-business-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-business-logic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/orders-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/orders/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/kumuluzee-kubernetes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-blog-samples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-discovery-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-discovery-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-discovery-etcd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-discovery-etcd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-grpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-grpc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-opentracing-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-opentracing-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/simple-verticles/verticle-publisher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kumuluzee-reactive-vertx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-business-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-business-logic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/customers-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/customers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-business-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-business-logic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/orders-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/orders/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial-microservice-config-discovery-faulttolerance-logs-metrics-security/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

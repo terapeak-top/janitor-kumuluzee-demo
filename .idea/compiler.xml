@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for KumuluzEE JPA and CDI sample" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/io/terapeak/janitor-core/1.0.0-SNAPSHOT/janitor-core-1.0.0-SNAPSHOT.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar" />
+        </processorPath>
+        <module name="janitor-kumuluzee-demo" />
+        <module name="kumuluzee-samples" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alpha" target="1.8" />
+      <module name="bean-validation" target="1.8" />
+      <module name="beta" target="1.8" />
+      <module name="customers-api (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="customers-api (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="customers-business-logic (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="customers-business-logic (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="customers-persistence (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="customers-persistence (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="delta" target="1.8" />
+      <module name="discovery-consul-discover-jaxrs" target="1.8" />
+      <module name="discovery-consul-discover-servlet" target="1.8" />
+      <module name="discovery-consul-register" target="1.8" />
+      <module name="discovery-etcd-discover-jaxrs" target="1.8" />
+      <module name="discovery-etcd-discover-servlet" target="1.8" />
+      <module name="discovery-etcd-register" target="1.8" />
+      <module name="gamma" target="1.8" />
+      <module name="grpc-client" target="1.8" />
+      <module name="grpc-server" target="1.8" />
+      <module name="https" target="1.8" />
+      <module name="jax-rs" target="1.8" />
+      <module name="jax-ws" target="1.8" />
+      <module name="jax-ws-cxf" target="1.8" />
+      <module name="jax-ws-metro" target="1.8" />
+      <module name="jpa" target="1.8" />
+      <module name="jsf" target="1.8" />
+      <module name="jsp" target="1.8" />
+      <module name="jul" target="1.8" />
+      <module name="kumuluzee-amqp-rabbitmq" target="1.8" />
+      <module name="kumuluzee-blog-samples" target="1.8" />
+      <module name="kumuluzee-config" target="1.8" />
+      <module name="kumuluzee-config-consul" target="1.8" />
+      <module name="kumuluzee-config-etcd" target="1.8" />
+      <module name="kumuluzee-config-mp" target="1.8" />
+      <module name="kumuluzee-config-zookeeper" target="1.8" />
+      <module name="kumuluzee-cors" target="1.8" />
+      <module name="kumuluzee-customers" target="1.8" />
+      <module name="kumuluzee-database-schema-migrations-liquibase" target="1.8" />
+      <module name="kumuluzee-discovery-consul" target="1.8" />
+      <module name="kumuluzee-discovery-etcd" target="1.8" />
+      <module name="kumuluzee-ethereum-sample" target="1.8" />
+      <module name="kumuluzee-fault-tolerance" target="1.8" />
+      <module name="kumuluzee-fault-tolerance-common" target="1.8" />
+      <module name="kumuluzee-fault-tolerance-customer-api" target="1.8" />
+      <module name="kumuluzee-fault-tolerance-order-api" target="1.8" />
+      <module name="kumuluzee-feature-flags-unleash" target="1.8" />
+      <module name="kumuluzee-graphql-advanced" target="1.8" />
+      <module name="kumuluzee-graphql-jpa-security" target="1.8" />
+      <module name="kumuluzee-graphql-jpa-simple" target="1.8" />
+      <module name="kumuluzee-grpc" target="1.8" />
+      <module name="kumuluzee-health" target="1.8" />
+      <module name="kumuluzee-jcache" target="1.8" />
+      <module name="kumuluzee-kubernetes" target="1.8" />
+      <module name="kumuluzee-logs-fluentd" target="1.8" />
+      <module name="kumuluzee-logs-jul" target="1.8" />
+      <module name="kumuluzee-logs-log4j2" target="1.8" />
+      <module name="kumuluzee-metrics" target="1.8" />
+      <module name="kumuluzee-microProfile-1.2" target="1.8" />
+      <module name="kumuluzee-openapi" target="1.8" />
+      <module name="kumuluzee-openapi-mp" target="1.8" />
+      <module name="kumuluzee-opentracing" target="1.8" />
+      <module name="kumuluzee-opentracing-tutorial" target="1.8" />
+      <module name="kumuluzee-orders" target="1.8" />
+      <module name="kumuluzee-reactive-vertx" target="1.8" />
+      <module name="kumuluzee-reactive-vertx-bridge" target="1.8" />
+      <module name="kumuluzee-reactive-vertx-listener" target="1.8" />
+      <module name="kumuluzee-reactive-vertx-publisher" target="1.8" />
+      <module name="kumuluzee-rest" target="1.8" />
+      <module name="kumuluzee-rest-client" target="1.8" />
+      <module name="kumuluzee-security-cdi-keycloak" target="1.8" />
+      <module name="kumuluzee-security-keycloak" target="1.8" />
+      <module name="kumuluzee-streaming-kafka" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-consumer" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-producer" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-registry" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-registry-consumer" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-registry-producer" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-registry-streams" target="1.8" />
+      <module name="kumuluzee-streaming-kafka-streams" target="1.8" />
+      <module name="kumuluzee-swagger" target="1.8" />
+      <module name="kumuluzee-tutorial" target="1.8" />
+      <module name="kumuluzee-tutorial-customers" target="1.8" />
+      <module name="kumuluzee-tutorial-orders" target="1.8" />
+      <module name="kumuluzee-version" target="1.8" />
+      <module name="master" target="1.8" />
+      <module name="microservices-simple" target="1.8" />
+      <module name="microservices-simple-catalogue" target="1.8" />
+      <module name="microservices-simple-models" target="1.8" />
+      <module name="microservices-simple-orders" target="1.8" />
+      <module name="opentracing-customers" target="1.8" />
+      <module name="opentracing-orders" target="1.8" />
+      <module name="orders-api (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="orders-api (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="orders-business-logic (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="orders-business-logic (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="orders-persistence (1) (com.kumuluz.ee.samples.blog)" target="1.8" />
+      <module name="orders-persistence (2) (com.kumuluz.ee.samples.tutorial)" target="1.8" />
+      <module name="servlet" target="1.8" />
+      <module name="simple-verticles" target="1.8" />
+      <module name="verticle-discovery" target="1.8" />
+      <module name="verticle-listener" target="1.8" />
+      <module name="verticle-publisher" target="1.8" />
+      <module name="websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

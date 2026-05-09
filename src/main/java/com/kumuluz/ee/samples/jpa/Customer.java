@@ -20,7 +20,7 @@
 */
 package com.kumuluz.ee.samples.jpa;
 
-import io.terapeak.janitor.annotation.Cleanup;
+import top.terapeak.janitor.annotation.Cleanup;
 import java.time.LocalDateTime;
 import javax.persistence.*;
 import java.io.Serializable;

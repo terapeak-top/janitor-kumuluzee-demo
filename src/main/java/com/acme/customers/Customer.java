@@ -18,7 +18,7 @@
  *  software. See the License for the specific language governing permissions and
  *  limitations under the License.
 */
-package com.kumuluz.ee.samples.jpa;
+package com.acme.customers;
 
 import top.terapeak.janitor.annotation.Cleanup;
 import java.time.LocalDateTime;
@@ -42,7 +42,6 @@ import java.io.Serializable;
 public class Customer implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     @Column(name = "first_name")
     private String firstName;

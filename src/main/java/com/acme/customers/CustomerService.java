@@ -18,50 +18,27 @@
  *  software. See the License for the specific language governing permissions and
  *  limitations under the License.
 */
-package com.kumuluz.ee.samples.jpa;
+package com.acme.customers;
 
-import javax.enterprise.context.RequestScoped;
+import javax.enterprise.context.ApplicationScoped;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;
-import javax.transaction.UserTransaction;
-import java.util.List;
 
 /**
  * @author Benjamin Kastelic
  * @since 2.3.0
  */
-@RequestScoped
+@ApplicationScoped
 public class CustomerService {
 
-    @PersistenceContext(unitName = "kumuluzee-samples-jpa")
+    @PersistenceContext(unitName = "kumuluzee-acme")
     private EntityManager em;
-
-    public Customer getCustomer(String customerId) {
-        return em.find(Customer.class, customerId);
-    }
-
-    public List<Customer> getCustomers() {
-        List<Customer> customers = em
-                .createNamedQuery("Customer.findCustomers", Customer.class)
-                .getResultList();
-
-        return customers;
-    }
 
     @Transactional
     public void saveCustomer(Customer customer) {
         if (customer != null) {
-            em.persist(customer);
-        }
-
-    }
-
-    @Transactional(Transactional.TxType.REQUIRED)
-    public void deleteCustomer(String customerId) {
-        Customer customer = em.find(Customer.class, customerId);
-        if (customer != null) {
-            em.remove(customer);
+            em.merge(customer);
         }
     }
 }
